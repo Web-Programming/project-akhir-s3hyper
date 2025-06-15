@@ -12,7 +12,6 @@
 
     <div class="card">
         <div class="card-header">
-        <button wire:click="create">Tambah</button>
 
             <div class="card-tools">
                 <div class="input-group input-group-sm" style="width: 150px;">
