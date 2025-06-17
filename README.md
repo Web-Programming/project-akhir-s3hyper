@@ -30,5 +30,5 @@ Berikut adalah bagaimana cara menggunakan proyek Perpustakaan YAPAK :
 Jika ada pertanyaan yang ingin ditanyakan silahkan contact : 
 - Email     : alfinnn831@gmail.com
 - Email     : oberts1310@gmail.com
-- Email     : Fatex10@gmail.com
+- Email     : dmaikel10@gmail.com
 - Email     : zanesenn22@gmail.com
